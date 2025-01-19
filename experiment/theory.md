@@ -20,4 +20,4 @@ $$
    &emsp; V<sub>a</sub> - accelerating voltage <br>
    &emsp; B - magnetic field strength <br>
    &emsp; r - radius of electron path <br>
-</p>
+</p><script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"> </script>
