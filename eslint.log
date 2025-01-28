@@ -1,0 +1,543 @@
+
+/home/runner/work/exp-mass-ratio-electrons-iitb/exp-mass-ratio-electrons-iitb/experiment/simulation/common_libraries/js/ts_components/collapse_step.js
+   1:10  warning  'show_step' is defined but never used                 no-unused-vars
+   2:5   warning  '$' is not defined                                    no-undef
+   3:9   warning  '$' is not defined                                    no-undef
+   6:10  warning  'hide_step' is defined but never used                 no-unused-vars
+   7:5   warning  '$' is not defined                                    no-undef
+   8:9   warning  '$' is not defined                                    no-undef
+  11:10  warning  'get_collapse_btn_text' is defined but never used     no-unused-vars
+  20:10  warning  'get_collapse_btn_element' is defined but never used  no-unused-vars
+  29:10  warning  'hide_all_steps' is defined but never used            no-unused-vars
+  31:9   warning  '$' is not defined                                    no-undef
+
+/home/runner/work/exp-mass-ratio-electrons-iitb/exp-mass-ratio-electrons-iitb/experiment/simulation/common_libraries/js/ts_components/matrix.js
+   27:26  warning  'MathJax' is not defined                                no-undef
+   32:7   warning  'Matrix_Without_String' is defined but never used       no-unused-vars
+   52:26  warning  'MathJax' is not defined                                no-undef
+   56:10  warning  'get_matrix_html' is defined but never used             no-unused-vars
+   87:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+   99:10  warning  'get_matrix_html_with_title' is defined but never used  no-unused-vars
+  131:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+  143:10  warning  'convert_2d_to_1d_vector' is defined but never used     no-unused-vars
+  156:10  warning  'convert_1d_to_2d_matrix' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-mass-ratio-electrons-iitb/exp-mass-ratio-electrons-iitb/experiment/simulation/common_libraries/js/ts_components/pannel.js
+  8:7  warning  'Pannel' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-mass-ratio-electrons-iitb/exp-mass-ratio-electrons-iitb/experiment/simulation/common_libraries/js/ts_components/questions.js
+   6:17  warning  'op1' is assigned a value but never used      no-unused-vars
+   7:17  warning  'op2' is assigned a value but never used      no-unused-vars
+   8:17  warning  'op3' is assigned a value but never used      no-unused-vars
+   9:17  warning  'op4' is assigned a value but never used      no-unused-vars
+  94:7   warning  'Question_Options' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-mass-ratio-electrons-iitb/exp-mass-ratio-electrons-iitb/experiment/simulation/common_libraries/js/ts_components/tables.js
+   19:22  warning  'verify_values' is not defined                                     no-undef
+  137:22  warning  'verify_values' is not defined                                     no-undef
+  260:7   warning  'Verify_Rows_Cols_6_decimal_places' is defined but never used      no-unused-vars
+  311:22  warning  'verify_values' is not defined                                     no-undef
+  416:7   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is defined but never used  no-unused-vars
+  468:7   warning  'Show_Table_Custom_Fixed' is defined but never used                no-unused-vars
+  506:7   warning  'Verify_Rows_Cols_Strings' is defined but never used               no-unused-vars
+  527:22  warning  'verify_values' is not defined                                     no-undef
+  663:7   warning  'Display_Table' is defined but never used                          no-unused-vars
+
+/home/runner/work/exp-mass-ratio-electrons-iitb/exp-mass-ratio-electrons-iitb/experiment/simulation/common_libraries/js/ts_math_library/general_math_functions.js
+    1:10  warning  'verify_values' is defined but never used                   no-unused-vars
+   17:10  warning  'random1' is defined but never used                         no-unused-vars
+   21:10  warning  'std_deviation' is defined but never used                   no-unused-vars
+   26:10  warning  'gauss' is defined but never used                           no-unused-vars
+   56:10  warning  'hide_panel' is defined but never used                      no-unused-vars
+   63:10  warning  'inverse_matrix' is defined but never used                  no-unused-vars
+   96:10  warning  'matrix_multiplication' is defined but never used           no-unused-vars
+  113:10  warning  'transpose_matrix' is defined but never used                no-unused-vars
+  123:10  warning  'matrix_multiplication_8decimal' is defined but never used  no-unused-vars
+  140:10  warning  'adjoint_2x2_matrix' is defined but never used              no-unused-vars
+  145:10  warning  'find_deteminant' is defined but never used                 no-unused-vars
+  174:10  warning  'get_Submatrix' is defined but never used                   no-unused-vars
+
+/home/runner/work/exp-mass-ratio-electrons-iitb/exp-mass-ratio-electrons-iitb/experiment/simulation/common_libraries/js/ts_math_library/regression.js
+   1:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  18:10  warning  'regression_linear_1variable' is defined but never used  no-unused-vars
+  27:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+  52:11  warning  'gauss' is not defined                                   no-undef
+
+/home/runner/work/exp-mass-ratio-electrons-iitb/exp-mass-ratio-electrons-iitb/experiment/simulation/common_libraries/math.ob.js
+  1:745  warning  'b' is already defined  no-redeclare
+
+/home/runner/work/exp-mass-ratio-electrons-iitb/exp-mass-ratio-electrons-iitb/experiment/simulation/js/activity1.js
+    8:14   warning  'Pannel' is not defined                                no-undef
+   14:10   warning  'start_act1' is defined but never used                 no-unused-vars
+   21:10   warning  'move_to_activity3' is defined but never used          no-unused-vars
+   24:5    warning  'activity2' is not defined                             no-undef
+   33:5    warning  'global_score' is assigned a value but never used      no-unused-vars
+   34:5    warning  'a1_panel' is defined but never used                   no-unused-vars
+   35:5    warning  'all_text_content' is assigned a value but never used  no-unused-vars
+   36:5    warning  'canvas_box_scale' is already defined                  no-redeclare
+   36:5    warning  'canvas_box_scale' is assigned a value but never used  no-unused-vars
+   39:5    warning  'a1_scene' is defined but never used                   no-unused-vars
+   46:5    warning  'display_score' is defined but never used              no-unused-vars
+   47:5    warning  'timer1' is assigned a value but never used            no-unused-vars
+   51:10   warning  'activity1' is defined but never used                  no-unused-vars
+   62:17   warning  'Scene' is not defined                                 no-undef
+   67:27   warning  'bootstrap' is not defined                             no-undef
+  216:25   warning  'Chemistry' is not defined                             no-undef
+  216:50   warning  'Chemistry' is not defined                             no-undef
+  275:12   warning  Unexpected constant condition                          no-constant-condition
+  297:49   warning  'Chemistry' is not defined                             no-undef
+  300:39   warning  'bootstrap' is not defined                             no-undef
+  332:30   warning  'Chemistry' is not defined                             no-undef
+  332:73   warning  'Chemistry' is not defined                             no-undef
+  360:13   warning  'bsOffcanvas' is already defined                       no-redeclare
+  360:31   warning  'bootstrap' is not defined                             no-undef
+  362:30   warning  'Chemistry' is not defined                             no-undef
+  362:118  warning  'Chemistry' is not defined                             no-undef
+
+/home/runner/work/exp-mass-ratio-electrons-iitb/exp-mass-ratio-electrons-iitb/experiment/simulation/js/activity2.js
+    5:5    warning  'line_out_1' is defined but never used              no-unused-vars
+   12:5    warning  'rect1' is assigned a value but never used          no-unused-vars
+   13:5    warning  'rect2' is assigned a value but never used          no-unused-vars
+   15:5    warning  'reading_count' is assigned a value but never used  no-unused-vars
+   16:5    warning  'tab' is defined but never used                     no-unused-vars
+   30:5    warning  'pp' is not defined                                 no-undef
+   31:5    warning  'pp' is not defined                                 no-undef
+   32:5    warning  'pp' is not defined                                 no-undef
+   33:5    warning  'pp' is not defined                                 no-undef
+   36:175  warning  'v_a' is not defined                                no-undef
+   42:181  warning  'I' is not defined                                  no-undef
+   48:24   warning  'B' is not defined                                  no-undef
+   51:5    warning  'pp' is not defined                                 no-undef
+   52:5    warning  'pp' is not defined                                 no-undef
+   63:18   warning  'Scene_Canvas' is not defined                       no-undef
+   65:21   warning  'Chemistry' is not defined                          no-undef
+   65:45   warning  'scale' is not defined                              no-undef
+   65:56   warning  'Chemistry' is not defined                          no-undef
+   67:24   warning  'Chemistry' is not defined                          no-undef
+   67:48   warning  'assembly' is not defined                           no-undef
+   67:62   warning  'Chemistry' is not defined                          no-undef
+   77:15   warning  'r' is not defined                                  no-undef
+   77:21   warning  'r' is not defined                                  no-undef
+   77:39   warning  'r' is not defined                                  no-undef
+   78:26   warning  'Chemistry' is not defined                          no-undef
+   78:45   warning  'Chemistry' is not defined                          no-undef
+   78:76   warning  'Chemistry' is not defined                          no-undef
+   82:25   warning  'Chemistry' is not defined                          no-undef
+   82:46   warning  'Chemistry' is not defined                          no-undef
+   82:70   warning  'r_canvas2' is not defined                          no-undef
+   82:85   warning  'r_canvas2' is not defined                          no-undef
+   88:5    warning  'show_panel' is not defined                         no-undef
+  108:5    warning  'lscale' is not defined                             no-undef
+  122:5    warning  'pp' is not defined                                 no-undef
+  130:5    warning  'pp' is not defined                                 no-undef
+  132:10   warning  'calculate_beta' is defined but never used          no-unused-vars
+  135:5    warning  'I' is not defined                                  no-undef
+  136:59   warning  'I' is not defined                                  no-undef
+  137:5    warning  'B' is not defined                                  no-undef
+  137:9    warning  'mu_0' is not defined                               no-undef
+  137:22   warning  'I' is not defined                                  no-undef
+  137:26   warning  'N' is not defined                                  no-undef
+  137:32   warning  'R' is not defined                                  no-undef
+  137:36   warning  'sqrt_125' is not defined                           no-undef
+  139:5    warning  'B_2' is not defined                                no-undef
+  139:20   warning  'B' is not defined                                  no-undef
+  141:37   warning  'B' is not defined                                  no-undef
+  143:15   warning  'r' is not defined                                  no-undef
+  143:21   warning  'r' is not defined                                  no-undef
+  143:39   warning  'r' is not defined                                  no-undef
+  144:26   warning  'Chemistry' is not defined                          no-undef
+  144:45   warning  'Chemistry' is not defined                          no-undef
+  144:76   warning  'Chemistry' is not defined                          no-undef
+  148:25   warning  'Chemistry' is not defined                          no-undef
+  148:46   warning  'Chemistry' is not defined                          no-undef
+  148:70   warning  'r_canvas2' is not defined                          no-undef
+  148:85   warning  'r_canvas2' is not defined                          no-undef
+  161:9    warning  'v_a' is not defined                                no-undef
+  163:52   warning  'v_a' is not defined                                no-undef
+  164:5    warning  'r_2' is not defined                                no-undef
+  164:16   warning  'm' is not defined                                  no-undef
+  164:20   warning  'v_a' is not defined                                no-undef
+  164:28   warning  'e' is not defined                                  no-undef
+  164:32   warning  'B_2' is not defined                                no-undef
+  165:5    warning  'r' is not defined                                  no-undef
+  165:19   warning  'r_2' is not defined                                no-undef
+  166:5    warning  'r_canvas2' is not defined                          no-undef
+  166:18   warning  'r' is not defined                                  no-undef
+  167:5    warning  'e_by_m' is not defined                             no-undef
+  167:19   warning  'v_a' is not defined                                no-undef
+  167:27   warning  'B_2' is not defined                                no-undef
+  167:33   warning  'r_2' is not defined                                no-undef
+  168:24   warning  'v_a' is not defined                                no-undef
+  169:22   warning  'I' is not defined                                  no-undef
+  170:22   warning  'r' is not defined                                  no-undef
+  171:24   warning  'r_2' is not defined                                no-undef
+  172:22   warning  'B' is not defined                                  no-undef
+  173:24   warning  'B_2' is not defined                                no-undef
+  174:27   warning  'e_by_m' is not defined                             no-undef
+  176:15   warning  'r' is not defined                                  no-undef
+  176:21   warning  'r' is not defined                                  no-undef
+  176:39   warning  'r' is not defined                                  no-undef
+  177:26   warning  'Chemistry' is not defined                          no-undef
+  177:45   warning  'Chemistry' is not defined                          no-undef
+  177:76   warning  'Chemistry' is not defined                          no-undef
+  185:25   warning  'Chemistry' is not defined                          no-undef
+  185:46   warning  'Chemistry' is not defined                          no-undef
+  185:70   warning  'r_canvas2' is not defined                          no-undef
+  185:85   warning  'r_canvas2' is not defined                          no-undef
+  225:5    warning  'pp' is not defined                                 no-undef
+  234:10   warning  'a2_verify_reading' is defined but never used       no-unused-vars
+  237:9    warning  'pp' is not defined                                 no-undef
+  244:9    warning  'show_panel' is not defined                         no-undef
+  247:10   warning  'verify_values' is not defined                      no-undef
+  247:50   warning  'v_a' is not defined                                no-undef
+  255:10   warning  'verify_values' is not defined                      no-undef
+  255:49   warning  'I' is not defined                                  no-undef
+  263:10   warning  'verify_values' is not defined                      no-undef
+  263:52   warning  'B' is not defined                                  no-undef
+  271:10   warning  'verify_values' is not defined                      no-undef
+  271:49   warning  'r' is not defined                                  no-undef
+  283:5    warning  'data_table_1' is not defined                       no-undef
+  283:24   warning  'v_a' is not defined                                no-undef
+  283:29   warning  'I' is not defined                                  no-undef
+  283:32   warning  'B' is not defined                                  no-undef
+  283:35   warning  'B_2' is not defined                                no-undef
+  283:40   warning  'r' is not defined                                  no-undef
+  283:43   warning  'r_2' is not defined                                no-undef
+  283:48   warning  'e_by_m' is not defined                             no-undef
+  289:9    warning  'hide_panel' is not defined                         no-undef
+  290:9    warning  'pp' is not defined                                 no-undef
+  295:9    warning  'pp' is not defined                                 no-undef
+  298:9    warning  'pp' is not defined                                 no-undef
+  303:9    warning  'show_panel' is not defined                         no-undef
+  309:25   warning  'data_table_1' is not defined                       no-undef
+  310:13   warning  'v_a' is not defined                                no-undef
+  310:21   warning  'data_table_1' is not defined                       no-undef
+  310:43   warning  'I' is not defined                                  no-undef
+  310:49   warning  'data_table_1' is not defined                       no-undef
+
+/home/runner/work/exp-mass-ratio-electrons-iitb/exp-mass-ratio-electrons-iitb/experiment/simulation/js/activity3.js
+    1:10  warning  'activity3' is defined but never used           no-unused-vars
+    2:31  warning  'data_table_1' is not defined                   no-undef
+    5:5   warning  'pp' is not defined                             no-undef
+    6:5   warning  'pp' is not defined                             no-undef
+    7:5   warning  'pp' is not defined                             no-undef
+    8:5   warning  'pp' is not defined                             no-undef
+    9:5   warning  'pp' is not defined                             no-undef
+   11:37  warning  Unnecessary escape character: \×                no-useless-escape
+   11:49  warning  Unnecessary escape character: \×                no-useless-escape
+   17:5   warning  'pp' is not defined                             no-undef
+   18:5   warning  'show_panel' is not defined                     no-undef
+   20:22  warning  'MathJax' is not defined                        no-undef
+   24:25  warning  'data_table_1' is not defined                   no-undef
+   25:22  warning  'data_table_1' is not defined                   no-undef
+   27:5   warning  'e_by_m_mean' is not defined                    no-undef
+   27:31  warning  'data_table_1' is not defined                   no-undef
+   28:5   warning  'e_by_m_compare' is not defined                 no-undef
+   29:9   warning  'standard_e_by_m' is not defined                no-undef
+   29:29  warning  'e_by_m_mean' is not defined                    no-undef
+   31:15  warning  'e_by_m_mean' is not defined                    no-undef
+   31:29  warning  'standard_e_by_m' is not defined                no-undef
+   34:17  warning  'e_by_m_mean' is not defined                    no-undef
+   37:38  warning  'e_by_m_mean' is not defined                    no-undef
+   37:52  warning  'standard_e_by_m' is not defined                no-undef
+   37:71  warning  'standard_e_by_m' is not defined                no-undef
+   40:9   warning  'percentage_error' is not defined               no-undef
+   43:9   warning  'percentage_error' is not defined               no-undef
+   46:9   warning  'percentage_error' is not defined               no-undef
+   49:9   warning  'percentage_error' is not defined               no-undef
+   54:25  warning  'data_table_1' is not defined                   no-undef
+   57:44  warning  'data_table_1' is not defined                   no-undef
+   58:44  warning  'data_table_1' is not defined                   no-undef
+   59:55  warning  'data_table_1' is not defined                   no-undef
+   60:55  warning  'data_table_1' is not defined                   no-undef
+   61:44  warning  'data_table_1' is not defined                   no-undef
+   84:5   warning  'pp' is not defined                             no-undef
+   87:10  warning  'a3_resizeTable' is defined but never used      no-unused-vars
+   93:10  warning  'a3_verify_table' is defined but never used     no-unused-vars
+   95:25  warning  'data_table_1' is not defined                   no-undef
+   97:21  warning  'data_table_1' is not defined                   no-undef
+   98:14  warning  'verify_values' is not defined                  no-undef
+   98:58  warning  'data_table_1' is not defined                   no-undef
+  111:5   warning  'pp' is not defined                             no-undef
+  115:5   warning  'pp' is not defined                             no-undef
+  116:5   warning  'show_panel' is not defined                     no-undef
+  118:25  warning  'data_table_1' is not defined                   no-undef
+  122:44  warning  'data_table_1' is not defined                   no-undef
+  123:44  warning  'data_table_1' is not defined                   no-undef
+  124:55  warning  'data_table_1' is not defined                   no-undef
+  125:55  warning  'data_table_1' is not defined                   no-undef
+  126:44  warning  'data_table_1' is not defined                   no-undef
+  127:44  warning  'data_table_1' is not defined                   no-undef
+  158:5   warning  'pp' is not defined                             no-undef
+  160:10  warning  'verify_mean_e_by_m' is defined but never used  no-unused-vars
+  163:17  warning  'e_by_m_mean' is not defined                    no-undef
+  164:10  warning  'verify_values' is not defined                  no-undef
+  164:55  warning  'e_by_m_mean' is not defined                    no-undef
+  169:9   warning  'pp' is not defined                             no-undef
+  170:9   warning  'pp' is not defined                             no-undef
+  171:9   warning  'show_panel' is not defined                     no-undef
+
+/home/runner/work/exp-mass-ratio-electrons-iitb/exp-mass-ratio-electrons-iitb/experiment/simulation/js/activity4.js
+    1:10  warning  'activity4' is defined but never used         no-unused-vars
+    2:5   warning  'pp' is not defined                           no-undef
+    3:5   warning  'pp' is not defined                           no-undef
+    4:5   warning  'pp' is not defined                           no-undef
+    5:5   warning  'pp' is not defined                           no-undef
+    8:43  warning  'standard_e_by_m' is not defined              no-undef
+   21:5   warning  'pp' is not defined                           no-undef
+   23:10  warning  'verify_cal_em' is defined but never used     no-unused-vars
+   26:17  warning  'e_by_m_mean' is not defined                  no-undef
+   27:10  warning  'verify_values' is not defined                no-undef
+   27:47  warning  'e_by_m_mean' is not defined                  no-undef
+   34:54  warning  'e_by_m_mean' is not defined                  no-undef
+   68:5   warning  'pp' is not defined                           no-undef
+   70:10  warning  'verify_dropdowns' is defined but never used  no-unused-vars
+   73:27  warning  'e_by_m_compare' is not defined               no-undef
+   74:17  warning  'percentage_error' is not defined             no-undef
+   75:41  warning  'e_by_m_compare' is not defined               no-undef
+   83:43  warning  'percentage_error' is not defined             no-undef
+  100:5   warning  'pp' is not defined                           no-undef
+  105:5   warning  'show_panel' is not defined                   no-undef
+
+/home/runner/work/exp-mass-ratio-electrons-iitb/exp-mass-ratio-electrons-iitb/experiment/simulation/js/common.js
+    1:10  warning  'verify_values' is defined but never used                no-unused-vars
+   18:10  warning  'std_deviation' is defined but never used                no-unused-vars
+   23:10  warning  'regression_linear' is defined but never used            no-unused-vars
+   40:10  warning  'ascending_random_array' is defined but never used       no-unused-vars
+   42:12  warning  Unexpected constant condition                            no-constant-condition
+   61:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+  118:10  warning  'show_panel' is defined but never used                   no-unused-vars
+  120:31  warning  'bootstrap' is not defined                               no-undef
+  127:10  warning  'hide_panel' is defined but never used                   no-unused-vars
+
+/home/runner/work/exp-mass-ratio-electrons-iitb/exp-mass-ratio-electrons-iitb/experiment/simulation/js/data.js
+   1:5  warning  'mu_0' is assigned a value but never used             no-unused-vars
+   2:5  warning  'N' is assigned a value but never used                no-unused-vars
+   3:5  warning  'R' is assigned a value but never used                no-unused-vars
+   4:5  warning  'sqrt_125' is assigned a value but never used         no-unused-vars
+   5:5  warning  'e' is assigned a value but never used                no-unused-vars
+   6:5  warning  'm' is assigned a value but never used                no-unused-vars
+   7:5  warning  'standard_e_by_m' is assigned a value but never used  no-unused-vars
+   8:5  warning  'percentage_error' is defined but never used          no-unused-vars
+   9:5  warning  'e_by_m_compare' is defined but never used            no-unused-vars
+  10:5  warning  'v_a' is assigned a value but never used              no-unused-vars
+  15:5  warning  'I' is assigned a value but never used                no-unused-vars
+  20:5  warning  'B' is assigned a value but never used                no-unused-vars
+  21:5  warning  'B_2' is assigned a value but never used              no-unused-vars
+  22:5  warning  'r_2' is assigned a value but never used              no-unused-vars
+  23:5  warning  'r' is assigned a value but never used                no-unused-vars
+  24:5  warning  'r_canvas2' is assigned a value but never used        no-unused-vars
+  25:5  warning  'e_by_m' is defined but never used                    no-unused-vars
+  26:5  warning  'e_by_m_mean' is defined but never used               no-unused-vars
+  28:5  warning  'data_table_1' is assigned a value but never used     no-unused-vars
+
+/home/runner/work/exp-mass-ratio-electrons-iitb/exp-mass-ratio-electrons-iitb/experiment/simulation/js/geomerty.js
+   33:49   warning  'lscale' is not defined          no-undef
+   34:49   warning  'lscale' is not defined          no-undef
+   46:23   warning  'pt1' is defined but never used  no-unused-vars
+   46:28   warning  'pt2' is defined but never used  no-unused-vars
+   46:33   warning  'pt3' is defined but never used  no-unused-vars
+   50:24   warning  'geo' is defined but never used  no-unused-vars
+   69:44   warning  'lscale' is not defined          no-undef
+   69:66   warning  'lscale' is not defined          no-undef
+   69:88   warning  'lscale' is not defined          no-undef
+   82:48   warning  'lscale' is not defined          no-undef
+   83:48   warning  'lscale' is not defined          no-undef
+  108:47   warning  'lscale' is not defined          no-undef
+  108:69   warning  'lscale' is not defined          no-undef
+  109:60   warning  'lscale' is not defined          no-undef
+  109:95   warning  'lscale' is not defined          no-undef
+  131:39   warning  'lscale' is not defined          no-undef
+  131:57   warning  'lscale' is not defined          no-undef
+  132:39   warning  'lscale' is not defined          no-undef
+  132:57   warning  'lscale' is not defined          no-undef
+  181:39   warning  'lscale' is not defined          no-undef
+  181:57   warning  'lscale' is not defined          no-undef
+  182:39   warning  'lscale' is not defined          no-undef
+  182:57   warning  'lscale' is not defined          no-undef
+  225:33   warning  'lscale' is not defined          no-undef
+  226:33   warning  'lscale' is not defined          no-undef
+  274:50   warning  'lscale' is not defined          no-undef
+  274:72   warning  'lscale' is not defined          no-undef
+  279:61   warning  'lscale' is not defined          no-undef
+  279:84   warning  'lscale' is not defined          no-undef
+  279:102  warning  'lscale' is not defined          no-undef
+  279:120  warning  'lscale' is not defined          no-undef
+  293:33   warning  'lscale' is not defined          no-undef
+  294:33   warning  'lscale' is not defined          no-undef
+  295:41   warning  'lscale' is not defined          no-undef
+  295:64   warning  'lscale' is not defined          no-undef
+  295:98   warning  'lscale' is not defined          no-undef
+  295:121  warning  'lscale' is not defined          no-undef
+  296:45   warning  'lscale' is not defined          no-undef
+  296:68   warning  'lscale' is not defined          no-undef
+  296:102  warning  'lscale' is not defined          no-undef
+  296:125  warning  'lscale' is not defined          no-undef
+  323:61   warning  'lscale' is not defined          no-undef
+  323:90   warning  'lscale' is not defined          no-undef
+  324:61   warning  'lscale' is not defined          no-undef
+  324:96   warning  'lscale' is not defined          no-undef
+  325:66   warning  'lscale' is not defined          no-undef
+  325:101  warning  'lscale' is not defined          no-undef
+  326:66   warning  'lscale' is not defined          no-undef
+  326:100  warning  'lscale' is not defined          no-undef
+  327:67   warning  'lscale' is not defined          no-undef
+  327:101  warning  'lscale' is not defined          no-undef
+  328:67   warning  'lscale' is not defined          no-undef
+  328:96   warning  'lscale' is not defined          no-undef
+  329:61   warning  'lscale' is not defined          no-undef
+  329:90   warning  'lscale' is not defined          no-undef
+  346:33   warning  'lscale' is not defined          no-undef
+  347:33   warning  'lscale' is not defined          no-undef
+  376:46   warning  'lscale' is not defined          no-undef
+  382:50   warning  'lscale' is not defined          no-undef
+  382:72   warning  'lscale' is not defined          no-undef
+  411:52   warning  'lscale' is not defined          no-undef
+  411:79   warning  'lscale' is not defined          no-undef
+  413:56   warning  'lscale' is not defined          no-undef
+  413:83   warning  'lscale' is not defined          no-undef
+  450:50   warning  'lscale' is not defined          no-undef
+  450:72   warning  'lscale' is not defined          no-undef
+  456:61   warning  'lscale' is not defined          no-undef
+  456:84   warning  'lscale' is not defined          no-undef
+  456:102  warning  'lscale' is not defined          no-undef
+  456:120  warning  'lscale' is not defined          no-undef
+  470:33   warning  'lscale' is not defined          no-undef
+  471:33   warning  'lscale' is not defined          no-undef
+  472:41   warning  'lscale' is not defined          no-undef
+  472:64   warning  'lscale' is not defined          no-undef
+  472:98   warning  'lscale' is not defined          no-undef
+  472:121  warning  'lscale' is not defined          no-undef
+  473:45   warning  'lscale' is not defined          no-undef
+  473:68   warning  'lscale' is not defined          no-undef
+  473:102  warning  'lscale' is not defined          no-undef
+  473:125  warning  'lscale' is not defined          no-undef
+  502:50   warning  'lscale' is not defined          no-undef
+  502:72   warning  'lscale' is not defined          no-undef
+  507:139  warning  'lscale' is not defined          no-undef
+  507:172  warning  'lscale' is not defined          no-undef
+  507:205  warning  'lscale' is not defined          no-undef
+  507:225  warning  'lscale' is not defined          no-undef
+  528:50   warning  'lscale' is not defined          no-undef
+  528:72   warning  'lscale' is not defined          no-undef
+  533:139  warning  'lscale' is not defined          no-undef
+  533:172  warning  'lscale' is not defined          no-undef
+  533:205  warning  'lscale' is not defined          no-undef
+  533:225  warning  'lscale' is not defined          no-undef
+  555:50   warning  'lscale' is not defined          no-undef
+  555:72   warning  'lscale' is not defined          no-undef
+  560:133  warning  'lscale' is not defined          no-undef
+  560:172  warning  'lscale' is not defined          no-undef
+  560:205  warning  'lscale' is not defined          no-undef
+  560:224  warning  'lscale' is not defined          no-undef
+  584:39   warning  'lscale' is not defined          no-undef
+  584:53   warning  'lscale' is not defined          no-undef
+  585:39   warning  'lscale' is not defined          no-undef
+  585:53   warning  'lscale' is not defined          no-undef
+  586:39   warning  'lscale' is not defined          no-undef
+  586:53   warning  'lscale' is not defined          no-undef
+  587:39   warning  'lscale' is not defined          no-undef
+  587:53   warning  'lscale' is not defined          no-undef
+  594:36   warning  'lscale' is not defined          no-undef
+  594:50   warning  'lscale' is not defined          no-undef
+  594:63   warning  'lscale' is not defined          no-undef
+  605:36   warning  'lscale' is not defined          no-undef
+  605:50   warning  'lscale' is not defined          no-undef
+  605:63   warning  'lscale' is not defined          no-undef
+  632:46   warning  'lscale' is not defined          no-undef
+  637:50   warning  'lscale' is not defined          no-undef
+  637:72   warning  'lscale' is not defined          no-undef
+  659:50   warning  'lscale' is not defined          no-undef
+  659:72   warning  'lscale' is not defined          no-undef
+  663:46   warning  'lscale' is not defined          no-undef
+  664:46   warning  'lscale' is not defined          no-undef
+  664:67   warning  'lscale' is not defined          no-undef
+  665:49   warning  'lscale' is not defined          no-undef
+  701:13   warning  'context' is not defined         no-undef
+  702:13   warning  'context' is not defined         no-undef
+  702:38   warning  'lscale' is not defined          no-undef
+  702:56   warning  'lscale' is not defined          no-undef
+  703:13   warning  'context' is not defined         no-undef
+  703:38   warning  'lscale' is not defined          no-undef
+  703:56   warning  'lscale' is not defined          no-undef
+  704:13   warning  'context' is not defined         no-undef
+  706:46   warning  'lscale' is not defined          no-undef
+  706:65   warning  'lscale' is not defined          no-undef
+  706:83   warning  'lscale' is not defined          no-undef
+  706:102  warning  'lscale' is not defined          no-undef
+  707:32   warning  'lscale' is not defined          no-undef
+  707:58   warning  'lscale' is not defined          no-undef
+  708:32   warning  'lscale' is not defined          no-undef
+  708:58   warning  'lscale' is not defined          no-undef
+  709:32   warning  'lscale' is not defined          no-undef
+  709:58   warning  'lscale' is not defined          no-undef
+  710:32   warning  'lscale' is not defined          no-undef
+  710:58   warning  'lscale' is not defined          no-undef
+  712:13   warning  'context' is not defined         no-undef
+  713:13   warning  'context' is not defined         no-undef
+  713:38   warning  'lscale' is not defined          no-undef
+  713:56   warning  'lscale' is not defined          no-undef
+  714:13   warning  'context' is not defined         no-undef
+  715:13   warning  'context' is not defined         no-undef
+  715:38   warning  'lscale' is not defined          no-undef
+  715:56   warning  'lscale' is not defined          no-undef
+  716:13   warning  'context' is not defined         no-undef
+  717:13   warning  'context' is not defined         no-undef
+  719:32   warning  'lscale' is not defined          no-undef
+  719:58   warning  'lscale' is not defined          no-undef
+  720:32   warning  'lscale' is not defined          no-undef
+  720:58   warning  'lscale' is not defined          no-undef
+  721:32   warning  'lscale' is not defined          no-undef
+  721:58   warning  'lscale' is not defined          no-undef
+  722:32   warning  'lscale' is not defined          no-undef
+  722:58   warning  'lscale' is not defined          no-undef
+  724:13   warning  'context' is not defined         no-undef
+  725:13   warning  'context' is not defined         no-undef
+  725:38   warning  'lscale' is not defined          no-undef
+  725:56   warning  'lscale' is not defined          no-undef
+  726:13   warning  'context' is not defined         no-undef
+  727:13   warning  'context' is not defined         no-undef
+  727:38   warning  'lscale' is not defined          no-undef
+  727:56   warning  'lscale' is not defined          no-undef
+  728:13   warning  'context' is not defined         no-undef
+  729:13   warning  'context' is not defined         no-undef
+  746:50   warning  'lscale' is not defined          no-undef
+  746:72   warning  'lscale' is not defined          no-undef
+  762:38   warning  'lscale' is not defined          no-undef
+  762:51   warning  'lscale' is not defined          no-undef
+  764:38   warning  'lscale' is not defined          no-undef
+  766:38   warning  'lscale' is not defined          no-undef
+  766:52   warning  'lscale' is not defined          no-undef
+  796:43   warning  'lscale' is not defined          no-undef
+  796:61   warning  'lscale' is not defined          no-undef
+  797:43   warning  'lscale' is not defined          no-undef
+  797:61   warning  'lscale' is not defined          no-undef
+
+/home/runner/work/exp-mass-ratio-electrons-iitb/exp-mass-ratio-electrons-iitb/experiment/simulation/js/pannel.js
+    8:7  warning  'Pannel' is defined but never used  no-unused-vars
+  152:7  warning  'Table2' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-mass-ratio-electrons-iitb/exp-mass-ratio-electrons-iitb/experiment/simulation/js/scene.js
+  11:9    warning  'context' is not defined                           no-undef
+  11:33   warning  'canvas' is not defined                            no-undef
+  11:47   warning  'canvas' is not defined                            no-undef
+  26:7    warning  'Scene_Canvas' is defined but never used           no-unused-vars
+  63:5    warning  'context' is not defined                           no-undef
+  64:9    warning  'grd' is assigned a value but never used           no-unused-vars
+  64:15   warning  'context' is not defined                           no-undef
+  64:44   warning  'canvas' is not defined                            no-undef
+  64:62   warning  'canvas' is not defined                            no-undef
+  64:84   warning  'canvas' is not defined                            no-undef
+  64:102  warning  'canvas' is not defined                            no-undef
+  64:121  warning  'canvas' is not defined                            no-undef
+  72:5    warning  'context' is not defined                           no-undef
+  73:5    warning  'context' is not defined                           no-undef
+  73:28   warning  'canvas' is not defined                            no-undef
+  73:42   warning  'canvas' is not defined                            no-undef
+  74:5    warning  'context' is not defined                           no-undef
+  75:5    warning  'context' is not defined                           no-undef
+  77:10   warning  'canvas_border_context' is defined but never used  no-unused-vars
+  80:9    warning  'grd' is assigned a value but never used           no-unused-vars
+
+✖ 506 problems (0 errors, 506 warnings)
+
