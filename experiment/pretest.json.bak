@@ -1,0 +1,47 @@
+[
+   {
+      "question": "What is the unit of the charge-to-mass ratio of an electron?",
+      "qid": 1,
+      "option_a": "Coulomb/g",
+      "option_b": "Joule/kg",
+      "option_c": "Coulomb/kg",
+      "option_d": "Volt/m",
+      "correct_option": "c"
+   },
+   {
+      "question": "Who is credited with the first measurement of the charge-to-mass ratio of the electron?",
+      "qid": 2,
+      "option_a": "Isaac Newton",
+      "option_b": "J.J. Thomson",
+      "option_c": "Albert Einstein",
+      "option_d": "James Clerk Maxwell",
+      "correct_option": "b"
+   },
+   {
+      "question": "Which of the following devices is used to determine the charge-to-mass ratio of electrons?",
+      "qid": 3,
+      "option_a": "Michelson interferometer",
+      "option_b": "Cathode-ray tube",
+      "option_c": "Young’s double-slit apparatus",
+      "option_d": "Laser diode",
+      "correct_option": "b"
+   },
+   {
+      "question": "In the context of electron beams, what does the term ‘deflection’ refer to?",
+      "qid": 4,
+      "option_a": "The bending of electron paths due to magnetic or electric fields",
+      "option_b": "The reflection of electrons from a surface",
+      "option_c": "The acceleration of electrons to a higher speed",
+      "option_d": "The emission of light from electrons",
+      "correct_option": "a"
+   },
+   {
+      "question": "In the e/m experiment, when you increased the magnetic field strength, what happened to the electron's path?",
+      "qid": 5,
+      "option_a": "The electron's path became straighter",
+      "option_b": "The electron’s path became more curved",
+      "option_c": "The electron was no longer able to move",
+      "option_d": "The electron’s velocity increased",
+      "correct_option": "b"
+   }
+]

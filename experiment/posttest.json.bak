@@ -1,0 +1,47 @@
+[
+   {
+      "question": "What method is commonly used to calculate the charge-to-mass ratio from experimental data?",
+      "qid": 1,
+      "option_a": "Direct measurement of charge and mass",
+      "option_b": "Using the radius of curvature of an electron beam in a magnetic field",
+      "option_c": "Measuring the current in the circuit",
+      "option_d": "Observing the color of emitted light",
+      "correct_option": "b"
+   },
+   {
+      "question": "In the experiment to determine the charge to mass ratio, how does increasing the magnetic field strength affect the deflection of the electron beam?",
+      "qid": 2,
+      "option_a": "Decreases the deflection radius",
+      "option_b": "Increases the deflection radius",
+      "option_c": "Has no effect on the beam",
+      "option_d": "Changes the speed of electrons",
+      "correct_option": "a"
+   },
+   {
+      "question": "Why is it important to have a vacuum inside the cathode-ray tube during the charge to mass experiment?",
+      "qid": 3,
+      "option_a": "To prevent electron collisions with air molecules",
+      "option_b": "To increase the weight of the electrons",
+      "option_c": "To cool down the equipment",
+      "option_d": "To improve the electron color visibility",
+      "correct_option": "a"
+   },
+   {
+      "question": "What is the significance of the charge-to-mass ratio experiment conducted by J.J. Thomson?",
+      "qid": 4,
+      "option_a": "It proved the existence of protons",
+      "option_b": "It measured the speed of light",
+      "option_c": "It was the first step in identifying the electron as a subatomic particle",
+      "option_d": "It discovered the neutron",
+      "correct_option": "c"
+   },
+   {
+      "question": "What happens if the speed of electrons is doubled in the presence of a constant magnetic field during the charge to mass experiment?",
+      "qid": 5,
+      "option_a": "The deflection radius is halved",
+      "option_b": "The deflection radius doubles",
+      "option_c": "The deflection remains the same",
+      "option_d": "The electrons stop moving",
+      "correct_option": "b"
+   }
+]
